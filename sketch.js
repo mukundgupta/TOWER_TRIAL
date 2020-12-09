@@ -233,7 +233,7 @@ if(loadEnd>=950){
 
   if(gameState === "HOME_SCREEN"){
     check1++;
-    background(back_IMG);  
+    background("grey");  
     rotatingCoin.visible = true;
     diamondSprite.visible = true;
   fill("orange")
