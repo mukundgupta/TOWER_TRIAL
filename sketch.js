@@ -41,7 +41,7 @@ function preload(){
   button_click_sound = loadSound('music/button_click_sound.mp3')
 
 //images and animations
-  back_IMG = loadImage("backImages/4-2-eiffel-tower-picture.png")
+  back_IMG = loadImage("4-2-eiffel-tower-picture.png")
   play_IMG = loadImage("playicon.png")
   rotate_coin = loadAnimation("coinsImages/coin1.png","coinsImages/coin2.png","coinsImages/coin3.png","coinsImages/coin4.png","coinsImages/coin5.png","coinsImages/coin6.png")
   diamondIMG = loadImage("coinsImages/blueDiamond.png")
